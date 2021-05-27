@@ -931,3 +931,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 73.95.183.1 at 2021-05-27 19:22:56 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.3ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
